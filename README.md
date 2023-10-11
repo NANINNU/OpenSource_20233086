@@ -11,8 +11,8 @@
 --------------------------------------------------------------
 3. 아래는 readme.md에서 실습하는 코드이다.
 
-    printf("Hello World!");
-    printf("AIX");
+     printf("Hello World!");
+     printf("AIX");
 
 이전에도 github는 열심히 사용하였지만,
 
