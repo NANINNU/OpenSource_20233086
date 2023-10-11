@@ -9,10 +9,10 @@
 --------------------------------------------------------------
 2. 앞으로 진행할 오픈소스 team project를 진행하기 위함이다.
 --------------------------------------------------------------
-3. 아래는 readme.md에서 실습하는 코드이다.
 
-     printf("Hello World!");
-     printf("AIX");
+이것은 내가 가장 좋아하는 음악이다.
+
+<https://music.youtube.com/watch?v=5McUFZz2s-w&list=PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m>
 
 이전에도 github는 열심히 사용하였지만,
 
