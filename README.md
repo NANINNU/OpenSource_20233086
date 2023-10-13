@@ -17,3 +17,9 @@
 이전에도 github는 열심히 사용하였지만,
 
 <span style="color:red"> 앞으로 열심히 사용하자! </span>
+
+## projext Mokrok
+- 머신러닝 프로젝트
+- C 프로젝트
+- 오픈소스 프로젝트
+
