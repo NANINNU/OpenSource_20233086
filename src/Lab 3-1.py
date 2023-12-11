@@ -13,4 +13,3 @@ print('DFS 방문순서:')
 for i in range(n):
     if not visited[i]:
         dfs(i)
-        
